@@ -46,10 +46,6 @@ npm install
 # or
 yarn install
 
-# Start the development server
-npm start
-# or
-yarn start
 
 # Install Expo Go app for live demo
 npx expo start
